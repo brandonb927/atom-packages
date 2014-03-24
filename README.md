@@ -1,67 +1,60 @@
-## A list of my favourite packages for the Atom code editor
-
 ### File Managing
-https://github.com/danielbrodin/atom-project-manager
+- [atom-project-manager](https://github.com/danielbrodin/atom-project-manager)
 
 
 ### HTML
-
-https://github.com/adambutler/atom-prettify
-https://github.com/mattberkowitz/autoclose-html
-https://github.com/AbeEstrada/atom-html-entities
+- [atom-prettify](https://github.com/adambutler/atom-prettify)
+- [autoclose-html](https://github.com/mattberkowitz/autoclose-html)
+- [atom-html-entities](https://github.com/AbeEstrada/atom-html-entities)
 
 
 ### CSS
-
-https://github.com/sindresorhus/atom-autoprefixer
-https://github.com/madebysource/atom-color-highlighting
-https://github.com/bruce/atom-csscomb
-https://github.com/tcarlsen/atom-csslint
+- [atom-autoprefixer](https://github.com/sindresorhus/atom-autoprefixer)
+- [atom-color-highlighting](https://github.com/madebysource/atom-color-highlighting)
+- [atom-csscomb](https://github.com/bruce/atom-csscomb)
+- [atom-csslint](https://github.com/tcarlsen/atom-csslint)
 
 
 ### Javascript
-
-https://github.com/zenorocha/atom-javascript-snippets
-https://github.com/swenson/atom-jsonpp
-https://github.com/federomero/pretty-json
-https://github.com/sindresorhus/atom-jshint
-https://github.com/sindresorhus/atom-uglify
-https://github.com/hughsk/atom-npm-install
-https://github.com/nickclaw/atom-grunt-runner
+- [atom-javascript-snippets](https://github.com/zenorocha/atom-javascript-snippets)
+- [atom-jsonpp](https://github.com/swenson/atom-jsonpp)
+- [pretty-json](https://github.com/federomero/pretty-json)
+- [atom-jshint](https://github.com/sindresorhus/atom-jshint)
+- [atom-uglify](https://github.com/sindresorhus/atom-uglify)
+- [atom-npm-install](https://github.com/hughsk/atom-npm-install)
+- [atom-grunt-runner](https://github.com/nickclaw/atom-grunt-runner)
 
 
 ### Git/Github
-
-https://github.com/nakajima/atom-branch-status
-https://github.com/rpowelll/gist-it
+- [atom-branch-status](https://github.com/nakajima/atom-branch-status)
+- [gist-it](https://github.com/rpowelll/gist-it)
 
 
 ### Terminal
-
-https://github.com/karan/atom-terminal
+- [atom-terminal](https://github.com/karan/atom-terminal)
 
 
 ### Syntax highlighting
+- [atom-handlebars](https://github.com/Sneagan/atom-handlebars)
+- [atom-jinja2](https://github.com/danielchatfield/atom-jinja2)
+- [atom-editorconfig](https://github.com/sindresorhus/atom-editorconfig)
+- [ssh-config](https://github.com/lalyos/ssh-config)
 
-https://github.com/Sneagan/atom-handlebars
-https://github.com/danielchatfield/atom-jinja2
-https://github.com/sindresorhus/atom-editorconfig
-https://github.com/lalyos/ssh-config
 
 ### Theme/Colour
-https://github.com/carloe/spacegray-base16-ocean-dark
-https://github.com/cannikin/spacegray-dark-ui
+- [spacegray-base16-ocean-dark](https://github.com/carloe/spacegray-base16-ocean-dark)
+- [spacegray-dark-ui](https://github.com/cannikin/spacegray-dark-ui)
 
 
-## Time-killing
-https://github.com/rgbkrk/atom-achievements
-https://github.com/void-main/atom-2048
+### Time-killing
+- [atom-achievements](https://github.com/rgbkrk/atom-achievements)
+- [atom-2048](https://github.com/void-main/atom-2048)
 
 
 ### Misc
-https://github.com/richrace/highlight-line
-https://github.com/leny/atom-inc-dec-value
-https://github.com/atom/emmet
-https://github.com/amerine/atom-license
-https://github.com/primitive-type/update-packages
-https://github.com/lee-dohm/tabs-to-spaces
+- [highlight-line](https://github.com/richrace/highlight-line)
+- [atom-inc-dec-value](https://github.com/leny/atom-inc-dec-value)
+- [emmet](https://github.com/atom/emmet)
+- [atom-license](https://github.com/amerine/atom-license)
+- [update-packages](https://github.com/primitive-type/update-packages)
+- [tabs-to-spaces](https://github.com/lee-dohm/tabs-to-spaces)
