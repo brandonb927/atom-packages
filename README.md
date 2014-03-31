@@ -6,6 +6,7 @@
 - [atom-prettify](https://github.com/adambutler/atom-prettify)
 - [autoclose-html](https://github.com/mattberkowitz/autoclose-html)
 - [atom-html-entities](https://github.com/AbeEstrada/atom-html-entities)
+- [emmet](https://github.com/atom/emmet)
 
 
 ### CSS
@@ -54,7 +55,6 @@
 ### Misc
 - [highlight-line](https://github.com/richrace/highlight-line)
 - [atom-inc-dec-value](https://github.com/leny/atom-inc-dec-value)
-- [emmet](https://github.com/atom/emmet)
 - [atom-license](https://github.com/amerine/atom-license)
 - [update-packages](https://github.com/primitive-type/update-packages)
 - [tabs-to-spaces](https://github.com/lee-dohm/tabs-to-spaces)
