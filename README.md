@@ -1,5 +1,6 @@
 ### File Managing
 - [atom-project-manager](https://github.com/danielbrodin/atom-project-manager)
+- [editor-settings](https://atom.io/packages/editor-settings)
 
 
 ### HTML
@@ -14,6 +15,7 @@
 - [atom-color-highlighting](https://github.com/madebysource/atom-color-highlighting)
 - [atom-csscomb](https://github.com/bruce/atom-csscomb)
 - [atom-csslint](https://github.com/tcarlsen/atom-csslint)
+- [color-picker](https://atom.io/packages/color-picker)
 
 
 ### Javascript
