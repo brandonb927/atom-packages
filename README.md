@@ -1,3 +1,34 @@
+## `core` and `tree-view` Atom settings
+
+    'editor':
+      'fontFamily': 'Ubuntu Mono'
+      'fontSize': 14
+      'lineHeight': 1.13
+    'core':
+      'themes': [
+        'spacegray-dark-ui'
+        'base16-ocean-dark-spacegray'
+      ]
+      'ignoredNames': [
+        '.DS_Store'
+        '*._*'
+        '*.git'
+        '*.svn'
+        '*.pyc'
+        '*.rdb'
+      ]
+      'audioBeep': false
+      'disabledPackages': [
+        'background-tips'
+        'welcome'
+      ]
+    'tree-view':
+      'hideIgnoredNames': true
+
+
+## Packages
+
+
 ### File Managing
 - [atom-project-manager](https://github.com/danielbrodin/atom-project-manager)
 - [editor-settings](https://atom.io/packages/editor-settings)
